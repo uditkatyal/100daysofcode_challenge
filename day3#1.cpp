@@ -1,4 +1,4 @@
-// pattern question - to print a rectangle 
+// pattern question - to print a rectangle.
 #include<iostream>
 using namespace std;
 
